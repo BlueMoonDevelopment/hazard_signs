@@ -1,4 +1,4 @@
-package com.example.hazard_signs
+package org.bluemoondev.hazard_signs
 
 import io.flutter.embedding.android.FlutterActivity
 

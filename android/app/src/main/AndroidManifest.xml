@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.hazard_signs">
+    package="org.bluemoondev.hazard_signs">
    <application
         android:label="hazard_signs"
         android:name="${applicationName}"
